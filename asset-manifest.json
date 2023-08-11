@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/athu-kawale2002/RoboDost.git/static/css/main.c5c8000d.css",
+    "main.js": "/athu-kawale2002/RoboDost.git/static/js/main.66acdfb6.js",
+    "static/js/787.32032a02.chunk.js": "/athu-kawale2002/RoboDost.git/static/js/787.32032a02.chunk.js",
+    "static/media/SEGA.woff": "/athu-kawale2002/RoboDost.git/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/athu-kawale2002/RoboDost.git/index.html",
+    "main.c5c8000d.css.map": "/athu-kawale2002/RoboDost.git/static/css/main.c5c8000d.css.map",
+    "main.66acdfb6.js.map": "/athu-kawale2002/RoboDost.git/static/js/main.66acdfb6.js.map",
+    "787.32032a02.chunk.js.map": "/athu-kawale2002/RoboDost.git/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5c8000d.css",
+    "static/js/main.66acdfb6.js"
+  ]
+}
